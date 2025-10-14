@@ -1,7 +1,5 @@
 import {
-  AiFillTwitterCircle,
   AiFillLinkedin,
-  AiFillYoutube,
   AiFillGithub,
 } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
