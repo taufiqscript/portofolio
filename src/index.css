@@ -1,6 +1,2 @@
 @custom-variant dark (&:where(.dark, .dark *));
-<<<<<<< HEAD
-=======
-
->>>>>>> 9786a24 (update portofolio)
 @import "tailwindcss";
